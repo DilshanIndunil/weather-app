@@ -2,7 +2,7 @@
 
 This project is a simple weather app built using HTML, CSS, and JavaScript. It allows users to search for the current weather conditions in any city around the world by entering the city name. The app fetches and displays the temperature, humidity, weather description, and an icon representing the current weather conditions for any country.
 
-![Weather App Screenshot](./assets/Screenshot%202024-06-15%20114004.png)
+   ![Screenshot 2024-06-15 114038](https://github.com/DilshanIndunil/weather-app/assets/163544478/443b5f6b-5eb6-4b24-8be1-09215cb6ed60)
 ## Features
 
 - Search for weather by city name worldwide
